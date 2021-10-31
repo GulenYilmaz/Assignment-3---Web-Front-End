@@ -1,0 +1,17 @@
+How does the internet work? 
+
+First of all, we sent a request and server receives our request. Then server produces HTML in response  . When  The input is progress as an output , response arrives to our browser and we can see the response from the server. 
+
+
+
+
+
+
+What happens when you click on a link?
+
+
+On the server side, we have an API get we're saying we're creating an endpoint for when they request or run a get request from the front end and then this is the past, so the http site.com, that is, the URL they have to place in.
+And then, it accepts a callback function so it's going to run this callback function, when a request is made to here.
+Then response come to our web browser from web server .
+
+

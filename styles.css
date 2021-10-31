@@ -1,0 +1,72 @@
+body {
+  background: rgb(157, 196, 201);
+  margin: 1rem;
+  padding: 1rem;
+  max-width: 500px;
+  margin: 2rem auto;
+  font-family: "Open Sans", sans-serif;
+  border-bottom: 10px solid orange;
+}
+
+nav {
+	border-bottom: 10px solid orange;
+}
+
+ol {
+	padding-left: 0px;
+  padding-right: 0px;
+
+}
+
+.crumb {
+	margin-right: 2em;
+	display: inline;
+}
+
+a {
+	color: orange;
+}
+
+a:visited {
+	color: rgb(37, 37, 25);
+  padding-left: 0px;
+  padding-right: 0px;
+  text-align: center;
+}
+
+
+input {
+	display: block;
+	border-bottom: 10px solid orange;
+	
+
+}
+
+img {
+	height: 250px;
+	max-width: 300px;
+	font-weight: 250px;
+  border-bottom: 10px solid orange;
+}
+
+#contact{
+	background: #ddd;
+  margin: 1rem;
+  padding: 1rem;
+  max-width: 500px;
+  margin: 2rem auto;
+  font-family: "Open Sans", sans-serif;
+  
+}
+h2{
+  border-bottom: 10px solid orange; 
+}
+
+.button-class {
+  padding : 8px;
+  background-color: yellow;
+  justify-content:center;
+  display: flexbox;
+
+
+}
